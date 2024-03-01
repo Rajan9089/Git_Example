@@ -1,1 +1,1 @@
-# Github/ Git Tutorial (Self Kearning)
+# Github/ Git Tutorial (Self Learning)
